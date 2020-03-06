@@ -163,4 +163,18 @@ func escapeToHeap() *user{
 //Garbage Collection
 //-----------------
 
-//test
+//Once something is moved to the heap, Garbage Collection has to get it in.
+//The most important thing the Garbage Collector (GC) is the placing algorithm.
+//It determines the frequency / pace that the GC has to run in order to maintain the smallest as possible
+
+//Imagine a  program you have 4MB heap. GC is trying to maintain a live heap of 2MB.
+//If the live heap grow pass 4MB we have allocate a lager heap.
+//Depending how fast the heap grow, we determine the pace that the GC has to run.
+//The smaller the pace, the less impact it is going to have.
+//The goal is to get the live heap back down.
+
+//When the GC is running, we have to take a performance cost to all Goroutine can keep running
+//concurrently.
+//The GC also have a group of Goroutine that perform the garbage collection work.
+//Ref:
+//https://github.com/ardanlabs/gotraining/blob/master/topics/go/language/pointers/README.md
