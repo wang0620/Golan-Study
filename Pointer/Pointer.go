@@ -178,3 +178,5 @@ func escapeToHeap() *user{
 //The GC also have a group of Goroutine that perform the garbage collection work.
 //Ref:
 //https://github.com/ardanlabs/gotraining/blob/master/topics/go/language/pointers/README.md
+
+//test
