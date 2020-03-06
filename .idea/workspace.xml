@@ -35,7 +35,7 @@
       <recent name="C:\Users\WangWEI\go\src\awesomeProject\Variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build GolanStudyProject/Pointer">
+  <component name="RunManager" selected="Go Build.go build GolanStudyProject/Constant">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="GolanStudyProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -43,6 +43,15 @@
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/" />
       <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build GolanStudyProject/Constant" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolanStudyProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/../GolanStudyProject/Constant/constant.go" />
+      <package value="GolanStudyProject/Constant" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -85,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build GolanStudyProject/Constant" />
         <item itemvalue="Go Build.go build GolanStudyProject/Pointer" />
         <item itemvalue="Go Build.go build awesomeProject/Stuct" />
         <item itemvalue="Go Build.go build awesomeProject" />
@@ -107,22 +117,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1223" y="436" width="356" height="167" key="Github.CreateGistDialog/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583511954928" />
-    <state width="914" height="263" key="GridCell.Tab.0.bottom" timestamp="1583446382429">
+    <state width="1015" height="263" key="GridCell.Tab.0.bottom" timestamp="1583524518495">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="263" key="GridCell.Tab.0.bottom/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583446382429" />
-    <state width="914" height="263" key="GridCell.Tab.0.center" timestamp="1583446382429">
+    <state width="1015" height="263" key="GridCell.Tab.0.bottom/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583524518495" />
+    <state width="1015" height="263" key="GridCell.Tab.0.center" timestamp="1583524518495">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="263" key="GridCell.Tab.0.center/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583446382429" />
-    <state width="914" height="263" key="GridCell.Tab.0.left" timestamp="1583446382428">
+    <state width="1015" height="263" key="GridCell.Tab.0.center/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583524518495" />
+    <state width="1015" height="263" key="GridCell.Tab.0.left" timestamp="1583524518494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="263" key="GridCell.Tab.0.left/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583446382428" />
-    <state width="914" height="263" key="GridCell.Tab.0.right" timestamp="1583446382429">
+    <state width="1015" height="263" key="GridCell.Tab.0.left/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583524518494" />
+    <state width="1015" height="263" key="GridCell.Tab.0.right" timestamp="1583524518495">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="263" key="GridCell.Tab.0.right/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583446382429" />
+    <state width="1015" height="263" key="GridCell.Tab.0.right/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583524518495" />
     <state x="1103" y="230" key="search.everywhere.popup" timestamp="1583427371509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -140,6 +150,11 @@
           <url>file://$PROJECT_DIR$/../GolanStudyProject/Variable/VarStudy.go</url>
           <line>45</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../GolanStudyProject/Constant/constant.go</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
