@@ -162,3 +162,5 @@ func escapeToHeap() *user{
 
 //Garbage Collection
 //-----------------
+
+//test
