@@ -27,7 +27,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GolanStudyProject" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -35,7 +35,7 @@
       <recent name="C:\Users\WangWEI\go\src\awesomeProject\Variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build GolanStudyProject">
+  <component name="RunManager" selected="Go Build.go build GolanStudyProject/DataStructure">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="GolanStudyProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -64,6 +64,15 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build GolanStudyProject/DataStructure" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolanStudyProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../GolanStudyProject/DataStructure/Slice.go" />
+      <package value="GolanStudyProject/DataStructure" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build GolanStudyProject/Pointer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolanStudyProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -81,15 +90,6 @@
       <package value="awesomeProject" />
       <method v="2" />
     </configuration>
-    <configuration name="go build awesomeProject/Stuct" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GolanStudyProject" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/Stuct/Stuct.go" />
-      <package value="awesomeProject/Stuct" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="GolanStudyProject" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build GolanStudyProject/DataStructure" />
         <item itemvalue="Go Build.go build GolanStudyProject" />
+        <item itemvalue="Go Build.go build awesomeProject" />
         <item itemvalue="Go Build.go build GolanStudyProject/Constant" />
         <item itemvalue="Go Build.go build GolanStudyProject/Pointer" />
-        <item itemvalue="Go Build.go build awesomeProject/Stuct" />
-        <item itemvalue="Go Build.go build awesomeProject" />
       </list>
     </recent_temporary>
   </component>
@@ -115,34 +115,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583337761849">
+    <state x="536" y="294" width="1092" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583781984907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583337761849" />
+    <state x="536" y="294" width="1092" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583781984907" />
+    <state x="1120" y="157" key="#go_build_GolanStudyProject/DataStructure" timestamp="1583782009139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1120" y="157" key="#go_build_GolanStudyProject/DataStructure/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583782009139" />
     <state x="1159" y="157" key="#go_build_awesomeProject" timestamp="1583426749593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1159" y="157" key="#go_build_awesomeProject/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583426749593" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583781963648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583781963648" />
     <state x="1223" y="436" width="356" height="167" key="Github.CreateGistDialog" timestamp="1583530813327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1223" y="436" width="356" height="167" key="Github.CreateGistDialog/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583530813327" />
-    <state width="1015" height="263" key="GridCell.Tab.0.bottom" timestamp="1583531655150">
+    <state width="1015" height="263" key="GridCell.Tab.0.bottom" timestamp="1583783287121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1015" height="263" key="GridCell.Tab.0.bottom/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583531655150" />
-    <state width="1015" height="263" key="GridCell.Tab.0.center" timestamp="1583531655148">
+    <state width="1015" height="263" key="GridCell.Tab.0.bottom/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583783287121" />
+    <state width="1015" height="263" key="GridCell.Tab.0.center" timestamp="1583783287120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1015" height="263" key="GridCell.Tab.0.center/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583531655148" />
-    <state width="1015" height="263" key="GridCell.Tab.0.left" timestamp="1583531655147">
+    <state width="1015" height="263" key="GridCell.Tab.0.center/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583783287120" />
+    <state width="1015" height="263" key="GridCell.Tab.0.left" timestamp="1583783287120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1015" height="263" key="GridCell.Tab.0.left/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583531655147" />
-    <state width="1015" height="263" key="GridCell.Tab.0.right" timestamp="1583531655149">
+    <state width="1015" height="263" key="GridCell.Tab.0.left/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583783287120" />
+    <state width="1015" height="263" key="GridCell.Tab.0.right" timestamp="1583783287121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1015" height="263" key="GridCell.Tab.0.right/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583531655149" />
+    <state width="1015" height="263" key="GridCell.Tab.0.right/1920.0.1280.826/0.0.1920.1040@0.0.1920.1040" timestamp="1583783287121" />
     <state x="1103" y="230" key="search.everywhere.popup" timestamp="1583427371509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
